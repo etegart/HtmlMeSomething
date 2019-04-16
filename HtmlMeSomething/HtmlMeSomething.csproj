@@ -11,11 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\images\JaysonTatum.jpg" />
-    <None Include="wwwroot\images\KlayThompson.jpg" />
-    <None Include="wwwroot\images\ReggieMiller.jpg" />
-    <None Include="wwwroot\images\Steph.jpg" />
-    <None Include="wwwroot\images\VictorOladipo.jpg" />
     <None Include="wwwroot\index.html" />
   </ItemGroup>
 
