@@ -1,0 +1,84 @@
+﻿body {
+    background-color: DodgerBlue;
+    margin: 0 auto;
+}
+
+header {
+    background-color: Red;
+    
+}
+
+ul {
+    margin: 10px auto;
+    padding: 0 20px;
+    list-style-position:inside;
+    
+}
+
+li {
+    color: Black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-align:center;
+}
+
+h1 {
+    color:black;
+    font-family: 'Calibri', sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+h4 {
+    color: Black;
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase
+}
+
+p {
+    color: DarkSlateGrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+#myfamily {
+    background-color: grey;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.travel {
+    text-align: center;
+    font-weight:900;
+    color:orangered;
+    
+}
+
+img.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div{
+    vertical-align:central
+}
+
+#different {
+    text-align: center;
+    font-weight: 800;
+    color: orange;
+}
